@@ -26,7 +26,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <org.apache.zookeeper.version>3.5.1-alpha</org.apache.zookeeper.version>
+        <org.apache.zookeeper.version>3.5.5</org.apache.zookeeper.version>
         <org.slf4j.version>1.7.21</org.slf4j.version>
         <logging.version>1.2</logging.version>
         <fastjson.version>1.2.47</fastjson.version>
